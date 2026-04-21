@@ -1,0 +1,11 @@
+batisteo.vscode-django
+esbenp.prettier-vscode
+github.copilot-chat
+ms-ceintl.vscode-language-pack-es
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
+pkief.material-icon-theme
+sirtori.indenticator
+zhuangtongfa.material-theme
