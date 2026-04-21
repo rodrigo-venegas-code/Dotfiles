@@ -1,2 +1,14 @@
 {
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation":false,
+    "indenticator.width": ,
+    "indenticator.color.dark": "rgba(255,255,255,0,1)"
 }
